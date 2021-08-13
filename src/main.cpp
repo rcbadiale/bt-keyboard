@@ -1,10 +1,10 @@
 // Configure variables
 #define US_KEYBOARD 1
 #define DEVICE_NAME "ESP32 Keyboard"
-#define KBD_PIN 13
+#define KBD_PIN 4
 #define BATT_PIN 35
 #define BATT_THOLD 0
-#define WIFI_BTN 5
+#define WIFI_BTN 32
 #define DP 18
 #define DN 19
 
